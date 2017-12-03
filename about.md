@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Sobre
+permalink: /sobre/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Então eu acabei de me tornar dono de um pedaço da internet. 
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+Este blog é um espaço pra falar das coisas que eu penso logo depois de acordar ou quando chego em casa depois de um dia de trabalho.
+É pra falar os argumentos que eu não dei numa conversa face a face por falta de tempo, oportunidade ou coragem.
+É pra falar sobre o que vão fazer com as novas invenções; sobre a descoberta da antimatéria e suas implicações na emancipação do homem das grandes populações.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Mas por que abrir um domínio próprio quando eu poderia escrever tudo no Facebook ou Medium?
+Principalmente pela liberdade de escolher a aparência, de não ter anúncios ao redor do texto, de não ter botão de curtir ou caixa de comentários, não por enquant.
