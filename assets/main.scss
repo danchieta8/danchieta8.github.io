@@ -1,0 +1,56 @@
+---
+---
+@import "minima";
+
+body {
+	background-color: #fffcea;
+	font-family: 'Open Sans', serif;
+}
+
+p {
+	font-family: 'Noto Serif', serif;
+}
+
+h1 {
+}
+
+.site-header {
+    border-bottom: 3px solid #424242;
+    border-top: none;
+    //min-height: 55.95px;
+    position: relative;
+}
+
+.post-list li {
+	margin-bottom: 2px;
+}
+
+.site-title a {
+	color: #424242;
+}
+
+.site-title p {
+	font-size: 12pt;
+	// padding: -60px 0;
+	// margin: -20px 0 0 0;
+	line-height: 15px;
+}
+
+.site-footer {
+	padding: 0px;
+}
+
+
+.site-nav-mine {
+	float: right;
+	line-height: 54px;
+	padding-top: 1px;}
+		.site-nav-mine .nav-trigger {
+			display: none; }
+		.site-nav-mine .menu-icon {
+			display: none; }
+		.site-nav-mine .page-link {
+			color: #111;
+		line-height: 1.5; }
+			.site-nav-mine .page-link:not(:last-child) {
+			margin-right: 20px; }

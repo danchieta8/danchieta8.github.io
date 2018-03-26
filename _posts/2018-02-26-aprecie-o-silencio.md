@@ -3,7 +3,7 @@ layout: post
 title: Sem Som
 ---
 
-Você gosta do silêncio. Soa meio esquizofrênico eu estar perguntando isso
+Você gosta do silêncio? Soa meio esquizofrênico eu estar perguntando isso
 aqui pra uma audiência quase inexistente. No entanto, o silêncio é uma das coisas que muito me satisfazem.
 
 Eu lembro dos tempos que acordava no meio das cinco da manhã para estar às sete horas em um colégio que me mandaria voltar para casa se eu chegasse dez minutos atrasado.
