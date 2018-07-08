@@ -34,3 +34,7 @@ exclude:
   
 google_analytics: UA-110237958-1
 lang: "pt"
+
+collections:
+  hidden:
+    output: true
