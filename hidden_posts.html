@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Parte Imaginária</h1>
+  <p>Você provavelmente não deveria estar aqui.</p>
+  <ul class="post-list">
+    {% for post in site.hidden%}
+      <li>
+        {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
+
+        <h2 class="post-link">
+          <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+		<span class="post-meta">{{ post.date | date: date_format }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">Assine <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+</div>
