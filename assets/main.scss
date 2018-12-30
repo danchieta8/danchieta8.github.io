@@ -92,3 +92,13 @@ h1 {
 .hidden{
 	visibility: hidden;
 }
+
+.row {
+	height: 50px;
+	margin-bottom: 30px;
+}
+
+.col {
+	width: 50%;
+	float:left;
+}

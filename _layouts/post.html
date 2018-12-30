@@ -21,5 +21,8 @@ layout: default
   <p>
   Não há seção de comentários, mas você pode me mandar um e-mail <a href="mailto:danchieta8+tempodiscreto@gmail.com?subject={{page.title}}"> clicando aqui </a>.
   </p>
+  {% if page.section == "hidden"%}
+	{% include template.html%}
+  {% endif %}
 
 </article>

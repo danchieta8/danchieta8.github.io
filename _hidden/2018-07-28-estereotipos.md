@@ -1,4 +1,5 @@
 ---
+section: hidden
 layout: post
 title: Estereótipos
 ---

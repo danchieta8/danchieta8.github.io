@@ -5,9 +5,9 @@ title: Tempo Discreto - Parte Imaginária
 ---
 
 <div class="home">
-
   <h1 class="page-heading">Parte Imaginária</h1>
   <p>Você provavelmente não deveria estar aqui.</p>
+
   <ul class="post-list">
     {% for post in site.hidden%}
       <li>
@@ -18,7 +18,9 @@ title: Tempo Discreto - Parte Imaginária
         </h2>
 		<span class="post-meta">{{ post.date | date: date_format }}</span>
       </li>
+
     {% endfor %}
   </ul>
+    {% include template.html%}
 
 </div>
