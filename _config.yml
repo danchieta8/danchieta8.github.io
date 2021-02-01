@@ -19,7 +19,7 @@ author: David Anchieta
 #description: > # this means to ignore newlines until "baseurl:"
 #  Meu nome é Nati Natini Natti Lohane Sevic de Albuquerque Pampic de la Tustuane.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "hhtp://tempodiscreto.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "hhtp://tempodiscreto.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
